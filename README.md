@@ -25,16 +25,16 @@ made using **three.js**, patience I didn’t know I had, and shader tears 🎀
   - one for *city lights at night*  
   - one for cloudy swirl drama
 
-- **custom fresnel shader**  🌈 
+- **custom fresnel shader**  🌈   
   so the earth glows softly at the edges like it's blushing
 
-- **space isn’t empty? okii**  🌌
+- **space isn’t empty? okii**  🌌  
   generated with `BufferGeometry` and love. 5000+ stars.
 
-- **rotating cloud layer**  ☁️
+- **rotating cloud layer**  ☁️  
   moves faster than the earth because it can
 
-- **dark side, but make it city-core**  ✨
+- **dark side, but make it city-core**  ✨  
   yes the dark side lights up. because cities.
 
 ---
